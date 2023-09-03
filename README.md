@@ -1,1 +1,2 @@
-# Conexiones
+# Conexiones Aeropuertos
+Se te proporciona una lista de aeropuertos y una lista de conexiones de vuelos de una sola dirección entre aeropuertos. Cada aeropuerto está representado por un código de tres letras. También se te proporciona un aeropuerto de inicio específico que deseas utilizar como centro para conectar con otros aeropuertos. Tu objetivo es encontrar el número mínimo de conexiones de vuelos adicionales necesarias para asegurarte de que se pueda llegar a todos los aeropuertos desde el aeropuerto de inicio, considerando que los pasajeros están dispuestos a tomar múltiples vuelos de conexión.
